@@ -1,0 +1,6 @@
+@media (max-width: 1100px) {
+    .uva {
+        min-width: 480px;
+        display: none;
+    }
+}
